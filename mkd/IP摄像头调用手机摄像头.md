@@ -14,7 +14,7 @@ VideoCapture cap(0); // 调用系统0号usb摄像头
 
 1. 进入IP摄像头主界面
 
-![IP摄像头1](.\images\IP摄像头1.jpg)
+![IP摄像头1](./images/IP摄像头1.jpg)
 
 2. 进入IP摄像头设置界面，下滑找到密码
 
