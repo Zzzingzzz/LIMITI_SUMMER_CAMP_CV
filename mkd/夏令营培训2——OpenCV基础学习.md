@@ -16,7 +16,7 @@ opencv官网：https://opencv.org/
 
 1. 选择opencv文件夹和新建build文件夹，然后点击configure
 
-![dnn安装图片1](F:\常用文件\视觉学习\mkd\图片\dnn安装图片1.jpg)
+![dnn安装图片1](.\images\dnn安装图片1.jpg)
 
 2. 
 
@@ -30,7 +30,7 @@ opencv官网：https://opencv.org/
 再点击configure
 ```
 
-![dnn安装图片1](F:\常用文件\视觉学习\mkd\图片\dnn安装图片2.jpg)
+![dnn安装图片1](.\images\dnn安装图片2.jpg)
 
 3. 点击configure和generate，完成cmake配置
 4. 进入build文件夹，编译
