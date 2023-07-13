@@ -1,0 +1,4 @@
+classes = 2
+train = ../train.txt
+backup = ../backup
+names = ../yolo-fastest.names
