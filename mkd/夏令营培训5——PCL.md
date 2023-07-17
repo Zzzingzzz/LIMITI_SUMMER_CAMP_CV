@@ -2,6 +2,8 @@
 
 PCL库(全称[Point Cloud Library](https://pointclouds.org/))，是一个重要的点云处理库，而点云又是雷达等常用的数据格式，故在此介绍此库。
 
+安装PCL请见：[安装pcl.md](./安装pcl.md)
+
 ##  1. 任务1——PCL数据类型和可视化
 
 学习了解PCL的PointCloud和几个主要的数据类型（主要是PointXYZ和PointXYZRGB）
