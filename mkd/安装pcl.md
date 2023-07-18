@@ -33,8 +33,6 @@ git clone https://github.com/PointCloudLibrary/pcl.git
 
 推荐使用cmake-gui编译，可自己选择需要编译的项目进行编译
 
-![pcl-cmake-gui](./图片/pcl-cmake-gui.png)
-
 点击Configure配置 和 Generate生成后，即可完成配置
 
 进入build文件夹编译安装
