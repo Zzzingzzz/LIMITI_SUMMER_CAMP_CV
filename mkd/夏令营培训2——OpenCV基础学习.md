@@ -10,7 +10,17 @@ opencv官网：https://opencv.org/
 
 
 
-推荐使用Cmake-GUI安装
+####  推荐使用Cmake-GUI安装
+
+先下载一些依赖库
+
+````
+sudo apt-get install cmake cmake-gui
+sudo apt-get install libeigen3-dev
+sudo apt-get install libboost-all-dev
+sudo apt-get install libgtk2.0-dev libvtk7-dev
+sudo apt-get install pkg-config
+````
 
 ####   cmake-gui
 
