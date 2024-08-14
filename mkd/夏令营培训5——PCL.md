@@ -22,7 +22,7 @@ PCL库(全称[Point Cloud Library](https://pointclouds.org/))，是一个重要�
 
 见[PCL——点云滤波](https://blog.csdn.net/sinat_41837954/article/details/100306836?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172362067416800213028105%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172362067416800213028105&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-100306836-null-null.142^v100^pc_search_result_base4&utm_term=pcl%E7%82%B9%E4%BA%91%E6%BB%A4%E6%B3%A2&spm=1018.2226.3001.4187)
 
-##  *3. 任务3——查阅SLAM
+##  *3. 任务4——查阅SLAM
 
 SLAM是视觉、雷达等场景建模、机器人定位的一类重要算法
 
